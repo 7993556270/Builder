@@ -1,6 +1,6 @@
-## Building Blocks React Native Mobile -  3rdPartyAudioAndVideoIntergration
+## Building Blocks React Native Mobile -  ThirdPartyAudioAndVideoIntergration
 
-Building Blocks - React Native Master App - 3rdPartyAudioAndVideoIntergration
+Building Blocks - React Native Master App - ThirdPartyAudioAndVideoIntergration
 
 ## Getting Started
 

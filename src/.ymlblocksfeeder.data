@@ -17,7 +17,7 @@ packages/blocks/AnonymousMode
 packages/blocks/ConversationHistory2
 packages/blocks/YourLaneTextOrLinks
 packages/blocks/ReportUser
-packages/blocks/3rdPartyAudioAndVideoIntergration
+packages/blocks/ThirdPartyAudioAndVideoIntergration
 packages/blocks/DifferentRooms
 packages/blocks/History5
 packages/blocks/PointSystemhearts

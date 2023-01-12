@@ -42,7 +42,7 @@ import CancellationOfCall from "../blocks/CancellationOfCall/src/CancellationOfC
 import History5 from "../blocks/History5/src/History5";
 import Referrals from "../blocks/Referrals/src/Referrals";
 import AdminConsole3 from "../blocks/AdminConsole3/src/AdminConsole3";
-import 3rdPartyAudioAndVideoIntergration from "../blocks/3rdPartyAudioAndVideoIntergration/src/3rdPartyAudioAndVideoIntergration";
+import ThirdPartyAudioAndVideoIntergration from "../blocks/ThirdPartyAudioAndVideoIntergration/src/ThirdPartyAudioAndVideoIntergration";
 import Settings5 from "../blocks/Settings5/src/Settings5";
 import UserProfileBasicBlock from "../blocks/user-profile-basic/src/UserProfileBasicBlock";
 import Categoriessubcategories from "../blocks/categoriessubcategories/src/Categoriessubcategories";
@@ -111,7 +111,7 @@ CancellationOfCall:{ screen:CancellationOfCall,navigationOptions:{ title:"Cancel
 History5:{ screen:History5,navigationOptions:{ title:"History5"}},
 Referrals:{ screen:Referrals,navigationOptions:{ title:"Referrals"}},
 AdminConsole3:{ screen:AdminConsole3,navigationOptions:{ title:"AdminConsole3"}},
-3rdPartyAudioAndVideoIntergration:{ screen:3rdPartyAudioAndVideoIntergration,navigationOptions:{ title:"3rdPartyAudioAndVideoIntergration"}},
+ThirdPartyAudioAndVideoIntergration:{ screen:ThirdPartyAudioAndVideoIntergration,navigationOptions:{ title:"ThirdPartyAudioAndVideoIntergration"}},
 Settings5:{ screen:Settings5,navigationOptions:{ title:"Settings5"}},
 UserProfileBasicBlock:{ screen:UserProfileBasicBlock,navigationOptions:{ title:"UserProfileBasicBlock"}},
 Categoriessubcategories:{ screen:Categoriessubcategories,navigationOptions:{ title:"Categoriessubcategories"}},

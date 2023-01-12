@@ -9,8 +9,8 @@ exports.exampleAPiEndPoint = "EXAMPLE_URL";
 exports.exampleAPiMethod = "POST";
 exports.exampleApiContentType = "application/json";
 exports.textInputPlaceHolder = "Enter Text";
-exports.labelTitleText = "3rdPartyAudioAndVideoIntergration";
-exports.labelBodyText = "3rdPartyAudioAndVideoIntergration Body";
+exports.labelTitleText = "ThirdPartyAudioAndVideoIntergration";
+exports.labelBodyText = "ThirdPartyAudioAndVideoIntergration Body";
 
 exports.btnExampleTitle = "CLICK ME";
 // Customizable Area End

@@ -7,15 +7,15 @@ import {Message} from "../../../../framework/src/Message"
 
 import MessageEnum, {getName} from "../../../../framework/src/Messages/MessageEnum"; 
 import React from "react";
-import 3rdPartyAudioAndVideoIntergration from "../../src/3rdPartyAudioAndVideoIntergration"
+import ThirdPartyAudioAndVideoIntergration from "../../src/ThirdPartyAudioAndVideoIntergration"
 const navigation = require("react-navigation")
 
 const screenProps = {
     navigation: navigation,
-    id: "3rdPartyAudioAndVideoIntergration"
+    id: "ThirdPartyAudioAndVideoIntergration"
   }
 
-const feature = loadFeature('./__tests__/features/3rdPartyAudioAndVideoIntergration-scenario.feature');
+const feature = loadFeature('./__tests__/features/ThirdPartyAudioAndVideoIntergration-scenario.feature');
 
 defineFeature(feature, (test) => {
 
@@ -26,19 +26,19 @@ defineFeature(feature, (test) => {
         jest.spyOn(helpers, 'getOS').mockImplementation(() => 'web');
     });
 
-    test('User navigates to 3rdPartyAudioAndVideoIntergration', ({ given, when, then }) => {
+    test('User navigates to ThirdPartyAudioAndVideoIntergration', ({ given, when, then }) => {
         let exampleBlockA:ShallowWrapper;
-        let instance:3rdPartyAudioAndVideoIntergration; 
+        let instance:ThirdPartyAudioAndVideoIntergration; 
 
-        given('I am a User loading 3rdPartyAudioAndVideoIntergration', () => {
-            exampleBlockA = shallow(<3rdPartyAudioAndVideoIntergration {...screenProps}/>);
+        given('I am a User loading ThirdPartyAudioAndVideoIntergration', () => {
+            exampleBlockA = shallow(<ThirdPartyAudioAndVideoIntergration {...screenProps}/>);
         });
 
-        when('I navigate to the 3rdPartyAudioAndVideoIntergration', () => {
-             instance = exampleBlockA.instance() as 3rdPartyAudioAndVideoIntergration
+        when('I navigate to the ThirdPartyAudioAndVideoIntergration', () => {
+             instance = exampleBlockA.instance() as ThirdPartyAudioAndVideoIntergration
         });
 
-        then('3rdPartyAudioAndVideoIntergration will load with out errors', () => {
+        then('ThirdPartyAudioAndVideoIntergration will load with out errors', () => {
             expect(exampleBlockA).toBeTruthy();
         });
 

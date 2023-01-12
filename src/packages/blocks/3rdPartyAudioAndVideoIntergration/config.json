@@ -1,13 +1,13 @@
 {
-  "id": "3rdPartyAudioAndVideoIntergration",
+  "id": "ThirdPartyAudioAndVideoIntergration",
   "version": "0.0.2",
   "status": "preAlpha",
-  "path": "./packages/blocks/3rdPartyAudioAndVideoIntergration",
+  "path": "./packages/blocks/ThirdPartyAudioAndVideoIntergration",
   "assembler-adapters": [],
   "mobile": {
     "merge-engine-navigation": {},
     "assembler-exports": [
-      "3rdPartyAudioAndVideoIntergration"
+      "ThirdPartyAudioAndVideoIntergration"
     ],
     "assembler-dependencies": [],
     "catalog-dependencies": [
@@ -16,18 +16,18 @@
     ],
     "assembler-devDependencies": [],
     "merge-engine-screens": {
-      "3rdPartyAudioAndVideoIntergration": {
-        "file": "3rdPartyAudioAndVideoIntergration.tsx",
-        "extends": "3rdPartyAudioAndVideoIntergrationController",
+      "ThirdPartyAudioAndVideoIntergration": {
+        "file": "ThirdPartyAudioAndVideoIntergration.tsx",
+        "extends": "ThirdPartyAudioAndVideoIntergrationController",
         "ui-elements": [],
         "imports": [
           {
-            "value": "3rdPartyAudioAndVideoIntergrationController",
-            "path": "./3rdPartyAudioAndVideoIntergrationController"
+            "value": "ThirdPartyAudioAndVideoIntergrationController",
+            "path": "./ThirdPartyAudioAndVideoIntergrationController"
           },
           {
             "value": "{Props}",
-            "path": "./3rdPartyAudioAndVideoIntergrationController"
+            "path": "./ThirdPartyAudioAndVideoIntergrationController"
           }
         ]
       }
@@ -36,7 +36,7 @@
   "web": {
     "merge-engine-navigation": {},
     "assembler-exports": [
-      "3rdPartyAudioAndVideoIntergration"
+      "ThirdPartyAudioAndVideoIntergration"
     ],
     "assembler-dependencies": [],
     "catalog-dependencies": [
@@ -45,18 +45,18 @@
     ],
     "assembler-devDependencies": [],
     "merge-engine-screens": {
-      "3rdPartyAudioAndVideoIntergration": {
-        "file": "3rdPartyAudioAndVideoIntergration.web.tsx",
-        "extends": "3rdPartyAudioAndVideoIntergrationController",
+      "ThirdPartyAudioAndVideoIntergration": {
+        "file": "ThirdPartyAudioAndVideoIntergration.web.tsx",
+        "extends": "ThirdPartyAudioAndVideoIntergrationController",
         "ui-elements": [],
         "imports": [
           {
-            "value": "3rdPartyAudioAndVideoIntergrationController",
-            "path": "./3rdPartyAudioAndVideoIntergrationController"
+            "value": "ThirdPartyAudioAndVideoIntergrationController",
+            "path": "./ThirdPartyAudioAndVideoIntergrationController"
           },
           {
             "value": "{Props}",
-            "path": "./3rdPartyAudioAndVideoIntergrationController"
+            "path": "./ThirdPartyAudioAndVideoIntergrationController"
           }
         ]
       }

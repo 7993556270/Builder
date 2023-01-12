@@ -156,7 +156,7 @@ class HomeScreen extends BlockComponent<Props, S, SS> {
 <CustomTextItem content={'ConversationHistory2'}  onPress={() => navigation.navigate("ConversationHistory2")} />
 <CustomTextItem content={'YourLaneTextOrLinks'}  onPress={() => navigation.navigate("YourLaneTextOrLinks")} />
 <CustomTextItem content={'ReportUser'}  onPress={() => navigation.navigate("ReportUser")} />
-<CustomTextItem content={'3rdPartyAudioAndVideoIntergration'}  onPress={() => navigation.navigate("3rdPartyAudioAndVideoIntergration")} />
+<CustomTextItem content={'ThirdPartyAudioAndVideoIntergration'}  onPress={() => navigation.navigate("ThirdPartyAudioAndVideoIntergration")} />
 <CustomTextItem content={'DifferentRooms'}  onPress={() => navigation.navigate("DifferentRooms")} />
 <CustomTextItem content={'History5'}  onPress={() => navigation.navigate("History5")} />
 <CustomTextItem content={'PointSystemhearts'}  onPress={() => navigation.navigate("PointSystemhearts")} />

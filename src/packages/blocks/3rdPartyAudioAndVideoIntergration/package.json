@@ -1,7 +1,7 @@
 {
-  "name": "3rdPartyAudioAndVideoIntergration",
+  "name": "ThirdPartyAudioAndVideoIntergration",
   "version": "1.0.0",
-  "repository": "https://gitlab.builder.ai/builder/builder-bx/Bx/blocks/react-native/development/react-native-master-app/packages/blocks/3rdPartyAudioAndVideoIntergration.git",
+  "repository": "https://gitlab.builder.ai/builder/builder-bx/Bx/blocks/react-native/development/react-native-master-app/packages/blocks/ThirdPartyAudioAndVideoIntergration.git",
   "license": "MIT",
   "scripts": {
     "test": "jest --verbose --coverage",

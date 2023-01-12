@@ -22,7 +22,7 @@ src/packages/blocks/AnonymousMode
 src/packages/blocks/ConversationHistory2
 src/packages/blocks/YourLaneTextOrLinks
 src/packages/blocks/ReportUser
-src/packages/blocks/3rdPartyAudioAndVideoIntergration
+src/packages/blocks/ThirdPartyAudioAndVideoIntergration
 src/packages/blocks/DifferentRooms
 src/packages/blocks/History5
 src/packages/blocks/PointSystemhearts
